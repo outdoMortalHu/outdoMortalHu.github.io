@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://outdomortalhu.github.io/sitemap.xml

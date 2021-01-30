@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>流苏的小窝</title>
+    <link>https://outdomortalhu.github.io/</link>
+    <description>Recent content on 流苏的小窝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Jan 2021 01:10:40 +0800</lastBuildDate><atom:link href="https://outdomortalhu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://outdomortalhu.github.io/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://outdomortalhu.github.io/about/</guid>
+      <description>Coding是这个时代的魔法~ 1 2 3 4 void Mobius() { Mobius(); } 联系我 Email: outdomortalhu@gmail.com github: https://www.github.com/outdomortalhu 关于我 一个冷空气制造者~同时喜爱神鬼志异的唯物主义者! 摘抄 阳春面，一把细面，半</description>
+    </item>
+    
+    <item>
+      <title>hello, world</title>
+      <link>https://outdomortalhu.github.io/post/first/</link>
+      <pubDate>Sat, 30 Jan 2021 01:10:40 +0800</pubDate>
+      
+      <guid>https://outdomortalhu.github.io/post/first/</guid>
+      <description>众所周知搭建完博客第一个博客就是hello, word.jpg 历史 来源于 wiki 链接地址https://zh.wikipedia.org/wiki/Hello_W</description>
+    </item>
+    
+  </channel>
+</rss>
